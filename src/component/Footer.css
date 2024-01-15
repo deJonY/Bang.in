@@ -1,0 +1,60 @@
+.FBGImg{
+    width: 100%;
+    height: 610px;
+    background-image: url("../img/footer.png");
+    padding-top: 340px;
+}
+.address, .tell, .mail{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #ffffff;
+}
+.address{
+    margin-top: 30px;
+}
+.tell, .mail{
+    display: block;
+    text-decoration: none;
+}
+.footerTitle{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #ffffff;
+}
+.FMTop{
+    margin-bottom: 40px;
+}
+.footerLink{
+    display: block;
+    text-decoration: none;
+
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 15px;
+}
+.local{
+    margin-top: 2px;
+}
+.rightTitle{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #ffffff;
+    margin-bottom: 40px;
+}
